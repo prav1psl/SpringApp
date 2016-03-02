@@ -1,0 +1,6 @@
+.submited input.ng-invalid{
+    border-color:red;  
+}
+.submited select.ng-invalid{
+    border-color:red;  
+}
